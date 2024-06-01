@@ -1,0 +1,5 @@
+com\example\coffeeshop\CoffeeShopApplication.class
+com\example\coffeeshop\ReviewController.class
+com\example\coffeeshop\ReviewService.class
+com\example\coffeeshop\Review.class
+com\example\coffeeshop\ReviewRepository.class
